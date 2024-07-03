@@ -67,7 +67,7 @@
 		text-align: left; 
 	  } 
 	  th { 
-		/*background-color: #3B82F6;*/ 
+		 
 	  } 
 	  tr:nth-child(even) { 
 		/*background-color: #333;*/ 
@@ -86,5 +86,5 @@
 		.container { 
 		  max-width: 1024px; 
 		} 
-	  } 
+	  }
   </style>
